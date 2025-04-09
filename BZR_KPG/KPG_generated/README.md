@@ -1,3 +1,8 @@
+# KPG Instance Files
+
+This folder contains synthetic instances for the **Knapsack Potential Game (KPG)**, generated using the Python script adapted from the original C++ version by Dragotto and Scatamacchia (2023):
+> https://github.com/gdragotto/ZeroRegretsAlgorithm/blob/main/instance_generators/instances_kp/generator.cpp
+ 
 ## Folder Structure
 
 Each subfolder `type_A`, `type_B`, and `type_C` corresponds to a different **interaction type**:
