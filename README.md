@@ -88,7 +88,7 @@ If you have questions or comments, please contact:
 **Hyunwoo Lee**  
 PhD Student, Industrial and Systems Engineering  
 Virginia Tech  
-Webpage: https://sites.google.com/view/hyunwoolee
+Webpage: https://sites.google.com/view/hyunwoolee  
 Email: hyunwoolee@vt.edu
 
 --------------------------------------------------------------------------------
