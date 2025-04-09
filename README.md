@@ -4,7 +4,7 @@ This repository contains the implementation of algorithms for finding the best P
 1. Edge-weighted Budgeted Maximum Coverage (EBMC) Games
 2. Knapsack Problem Games (KPGs)
 
-The core algorithm is a **Best-Response Dynamics Incorporated Zero-Regret (BZR)** algorithm, which integrates classical zero-regret iterative methods with a clockwork-random best-response dynamics component (CR-BRD).
+The core algorithm is a **Best-Response Dynamics Incorporated Zero-Regret (BZR)** algorithm, which integrates the state-of-the-art zero-regret algorithm with a clockwork-random best-response dynamics component (CR-BRD).
 
 --------------------------------------------------------------------------------
 📄 Citation
