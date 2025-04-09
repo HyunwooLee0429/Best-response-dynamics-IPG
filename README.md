@@ -1,12 +1,10 @@
-================================================================================
-Best-Response Dynamics Incorporated Zero-Regret Algorithm for Large-scale Integer Programming Games
-================================================================================
+## **Best-Response Dynamics Incorporated Zero-Regret Algorithm for Large-scale Integer Programming Games**
 
 This repository contains the implementation of algorithms for finding the best Pure Nash Equilibria (PNE) in large-scale Integer Programming Games (IPGs), focusing on two important game classes:
 1. Edge-weighted Budgeted Maximum Coverage (EBMC) Games
 2. Knapsack Problem Games (KPGs)
 
-The core algorithm is a **Best-Response Dynamics Incorporated Zero-Regret (BZR)** algorithm, which integrates classical zero-regret iterative methods with a cycle-resistant best-response dynamics component (CR-BRD).
+The core algorithm is a **Best-Response Dynamics Incorporated Zero-Regret (BZR)** algorithm, which integrates classical zero-regret iterative methods with a clockwork-random best-response dynamics component (CR-BRD).
 
 --------------------------------------------------------------------------------
 📄 Citation
@@ -26,9 +24,7 @@ If you use this codebase in your research, please cite the following paper:
 
 This repository consists of two main folders:
 
-====================================
-1. BZR_EBMC (for EBMC Games)
-====================================
+## **1. BZR_EBMC (for EBMC Games)**
 
 📘 Jupyter Notebooks:
 
@@ -53,9 +49,7 @@ This repository consists of two main folders:
 - **EBMC_results/**:
   Includes all result outputs for both synthetic and Minnesota datasets.
 
-====================================
-2. BZR_KPG (for Knapsack Problem Games)
-====================================
+## **2. BZR_KPG (for Knapsack Problem Games)**
 
 📘 Jupyter Notebooks:
 
@@ -94,6 +88,7 @@ If you have questions or comments, please contact:
 **Hyunwoo Lee**  
 PhD Student, Industrial and Systems Engineering  
 Virginia Tech  
+Webpage: https://sites.google.com/view/hyunwoolee
 Email: hyunwoolee@vt.edu
 
 --------------------------------------------------------------------------------
