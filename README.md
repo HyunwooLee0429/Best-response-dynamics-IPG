@@ -1,4 +1,4 @@
-## **Best-Response Dynamics Incorporated Zero-Regret Algorithm for Large-scale Integer Programming Games**
+## **Best-Response Dynamics for Large-scale Integer Programming Games**
 
 This repository contains the implementation of algorithms for finding the best Pure Nash Equilibria (PNE) in large-scale Integer Programming Games (IPGs), focusing on two important game classes:
 1. Edge-weighted Budgeted Maximum Coverage (EBMC) Games
