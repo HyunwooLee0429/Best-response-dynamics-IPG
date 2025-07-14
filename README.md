@@ -11,11 +11,11 @@ The core algorithm is a **Best-Response Dynamics Incorporated Zero-Regret (BZR)*
 --------------------------------------------------------------------------------
 If you use this codebase in your research, please cite the following paper:
 
-@article{lee2024algorithms,
-  title={Algorithms for Finding the Best Pure Nash Equilibrium in Edge-weighted Budgeted Maximum Coverage Games},
-  author={Lee, Hyunwoo and Hildebrand, Robert and Cai, Wenbo and B{\"u}y{\"u}ktahtak{\i}n, {\.I} Esra},
-  journal={arXiv preprint arXiv:2409.04078},
-  year={2024}
+@article{leebest,
+  title={Best-Response Dynamics for Large-Scale Integer Programming Games with Applications to Aquatic Invasive Species Prevention},
+  author={Lee, Hyunwoo and Hildebrand, Robert and Cai, Wenbo and B{\"u}y{\"u}ktahtak{\i}n, I Esra},
+  journal={optimization-online.org}
+  year={2025}
 }
 
 --------------------------------------------------------------------------------
