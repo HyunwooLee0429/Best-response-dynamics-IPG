@@ -114,30 +114,38 @@ This folder contains simulation experiments used in supporting analysis, includi
 
 ---
 
-## 🗂️ Data Policy (Large Files)
+
+--------------------------------------------------------------------------------
+🗂️ Data Policy (Large Files)
+--------------------------------------------------------------------------------
 
 Some datasets (e.g., Minnesota boat-movement data and large synthetic EBMC instance collections) may be too large to host directly on GitHub. Consistent with the prior version of this repository, large files are shared via external links when needed, while code and reproducible pipelines remain available in this repo.
 
----
 
-## 🛠️ Requirements
+--------------------------------------------------------------------------------
+🛠️ Requirements
+--------------------------------------------------------------------------------
 
 - Python 3.x
 - Gurobi (with academic license or valid credentials)
 - `pandas`, `numpy`, `matplotlib`
 - Jupyter Notebook (or equivalent interface)
 
----
 
-## 📬 Contact
+
+--------------------------------------------------------------------------------
+📬 Contact
+--------------------------------------------------------------------------------
 
 If you have questions or comments, please contact:
 
-**Hyunwoo Lee**
-PhD Student, Industrial and Systems Engineering
-Virginia Tech
-Webpage: https://sites.google.com/view/hyunwoolee
+**Hyunwoo Lee**  
+PhD Student, Industrial and Systems Engineering  
+Virginia Tech  
+Webpage: https://sites.google.com/view/hyunwoolee  
 Email: hyunwoolee@vt.edu
+
+--------------------------------------------------------------------------------
 
 
 
