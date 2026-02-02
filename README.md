@@ -14,7 +14,7 @@ We focus on two important game classes:
 The core algorithmic framework is **Best-Response Dynamics Incorporated Zero-Regret (BZR)**, which integrates:
 
 - **Random-Restart Best-Response Dynamics (RR-BRD)** as a scalable equilibrium-finding heuristic, and
-- a **Best-Response Dynamics Incorporated Zero-Regret (BZR)** algorithm, which integrates the state-of-the-art zero-regret algorithm with the RR-BRD.
+- **Best-Response Dynamics Incorporated Zero-Regret (BZR)** algorithm, which integrates the state-of-the-art zero-regret algorithm with the RR-BRD.
 ---
 
 ## 📄 Citation
