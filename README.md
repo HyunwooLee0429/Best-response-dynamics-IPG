@@ -42,16 +42,16 @@ Implements RR-BRD, ZR, and BZR for Edge-weighted Budgeted Maximum Coverage games
 
 #### 📘 Jupyter Notebooks
 
-- **BZR_EBMC.ipynb**
+- **`BZR_EBMC.ipynb`**
   Implementation of **RR-BRD**, **ZR**, and **BZR** for EBMC games. Supports experiments on both synthetic instances (single/multiple AIS settings) and the Minnesota dataset. Includes routines for finding a PNE, collecting multiple PNEs, and identifying the best PNE under a chosen objective.
 
-- **EBMC generator.ipynb**
+- **`EBMC generator.ipynb`**
   Generates random EBMC game instances for both single-AIS and multi-AIS settings.
 
-- **County-level.ipynb**
+- **`County-level.ipynb`**
   Compares strategy profiles (e.g., NG, PNE, OSW) at the county level using the Minnesota dataset. Some profiles may be precomputed via `BZR_EBMC.ipynb`.
 
-- **Approx_PNE_EBMC.ipynb**
+- **`Approx_PNE_EBMC.ipynb`**
   Utilities and experiments related to **approximate PNE** computations for EBMC games.
 
 #### 📂 Subfolders
