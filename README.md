@@ -106,11 +106,11 @@ This folder contains simulation experiments used in supporting analysis, includi
 
 #### 📂 Subfolders
 
-- **`generated/`**
-  Generated simulation instances.
+- **`KPG_dataset_results/`**
+  KPG instances from Dragotto and Scatamacchia (2023) and the corresponding q_\mu[R] results.
 
 - **`nf_qmu_outputs/`**
-  Output summaries (CSV).
+  Outputs from normal-form reductions of IPGs and the corresponding q_\mu[R] results.
 
 
 
