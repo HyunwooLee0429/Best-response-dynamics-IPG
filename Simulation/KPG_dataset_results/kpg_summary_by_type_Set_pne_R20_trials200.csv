@@ -1,0 +1,4 @@
+type,num_instances,num_with_q_pos,avg_q_mu_Rm1,avg_rounds_all_over_instances,avg_expected_step_bound
+cij,20,20,1.0,3.589,48.0
+cij-n,7,7,0.5957142857142858,10.050714285714287,2135.1509751509752
+pot,23,23,1.0,3.382608695652174,49.56521739130435
