@@ -1,4 +1,4 @@
-## **Best-Response Dynamics for Large-scale Integer Programming Games**
+## **Random-Restart Best-Response Dynamics for Large-scale Integer Programming Games**
 
 This repository contains implementations of algorithms for computing **Pure Nash Equilibria (PNE)** in large-scale **Integer Programming Games (IPGs)**. The codebase supports:
 
@@ -22,10 +22,11 @@ The core algorithmic framework is **Best-Response Dynamics Incorporated Zero-Reg
 If you use this codebase in your research, please cite:
 
 @article{leebest,
-  title={Best-Response Dynamics for Large-Scale Integer Programming Games with Applications to Aquatic Invasive Species Prevention},
+  title={Random-Restart Best-Response Dynamics for Large-Scale Integer Programming Games and Their Applications},
   author={Lee, Hyunwoo and Hildebrand, Robert and Cai, Wenbo and B{\"u}y{\"u}ktahtak{\i}n, I Esra},
-  journal={optimization-online.org},
-  year={2025}
+  journal={arXiv},
+  url={https://arxiv.org/abs/2409.04078},
+  year={2026}
 }
 
 
