@@ -22,11 +22,13 @@ The core algorithmic framework is **Best-Response Dynamics Incorporated Zero-Reg
 If you use this codebase in your research, please cite:
 
 @article{leebest,
-  title={Random-Restart Best-Response Dynamics for Large-Scale Integer Programming Games and Their Applications},
-  author={Lee, Hyunwoo and Hildebrand, Robert and Cai, Wenbo and B{\"u}y{\"u}ktahtak{\i}n, I Esra},
-  journal={arXiv},
-  url={https://arxiv.org/abs/2409.04078},
-  year={2026}
+  title        = {Random-Restart Best-Response Dynamics for Large-Scale Integer Programming Games and Their Applications},
+  author       = {Lee, Hyunwoo and Hildebrand, Robert and Cai, Wenbo and B{\"u}y{\"u}ktahtak{\i}n, I Esra},
+  archivePrefix= {arXiv},
+  eprint       = {2409.04078},
+  primaryClass = {cs.GT},
+  year         = {2026},
+  url          = {https://arxiv.org/abs/2409.04078}
 }
 
 
