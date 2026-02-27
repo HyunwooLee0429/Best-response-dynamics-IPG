@@ -25,7 +25,7 @@ If you use this codebase in your research, please cite:
   title={Random-Restart Best-Response Dynamics for Large-Scale Integer Programming Games and Their Applications},
   author={Lee, Hyunwoo and Hildebrand, Robert and Cai, Wenbo and B{\"u}y{\"u}ktahtak{\i}n, I Esra},
   journal={arXiv},
-  url={https://arxiv.org/abs/2409.04078},
+  url={ https://arxiv.org/abs/2409.04078 },
   year={2026}
 }
 
